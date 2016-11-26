@@ -1,0 +1,19 @@
+  img {width: 400px; height: 200px;}
+  /* #somethingIdentical {width: 200px; height: 100px} */
+   .somename {width: 500px; height: 250px;}
+   .somename {float:left;}
+   .article {clear:left;}
+  h1 {color: maroon;}
+  h1 {font-size: 60px;}
+  h2 {color: maroon;}
+  h2 {font-size: 40px;}
+  
+  li {
+     float:left;
+  }
+  
+  ol {list-style-type: none;}
+  
+  li {width: 100px; margin-bottom: 2em; border-left: 1px solid #aaa; text-align: center;}
+  
+  
